@@ -1,0 +1,580 @@
+
+01. Computer Basics
+    ├── Hardware
+    │   ├── CPU, RAM, Motherboard, Storage
+    │   ├── Input/Output devices
+    │   └── Peripherals
+    ├── Operating Systems
+    │   ├── Windows, Linux, macOS basics
+    │   └── OS functions & architecture
+    ├── File Systems
+    │   ├── FAT32, NTFS, ext4
+    │   └── File organization & permissions
+    └── Basic Troubleshooting
+        ├── Boot issues
+        ├── Hardware diagnostics
+        └── Software conflicts
+
+02. Web Basics (HTTP, HTTPS, DNS, Browser)
+    ├── HTTP/HTTPS
+    │   ├── Request/Response cycle
+    │   ├── Methods (GET, POST, PUT, DELETE)
+    │   └── Status codes
+    ├── DNS
+    │   ├── Domain resolution process
+    │   └── DNS records (A, CNAME, MX, etc.)
+    └── Browser
+        ├── Rendering engine basics
+        └── Developer tools (Inspect, Network tab)
+
+03. Windows Administration
+    ├── User & Group Management
+    ├── Permissions (NTFS, sharing)
+    ├── Services & Task Scheduler
+    ├── Registry Editor
+    └── Event Viewer & Logs
+
+04. Windows CLI Commands
+    ├── CMD Commands
+    │   ├── dir, cd, copy, ipconfig, netstat
+    │   └── tasklist, systeminfo
+    └── PowerShell
+        ├── Cmdlets (Get-Process, Get-Service)
+        ├── Scripting basics
+        └── Remote management (WinRM)
+
+05. Active Directory
+    ├── Domain & Forest structure
+    ├── Users, Groups, OUs
+    ├── Group Policy Objects (GPO)
+    ├── Authentication (Kerberos, NTLM)
+    └── Trusts & Replication
+
+06. Windows Server
+    ├── Server Roles & Features
+    ├── DHCP Server
+    ├── DNS Server
+    ├── File & Print Services
+    └── Remote Desktop Services
+
+07. Linux Fundamentals
+    ├── Filesystem Hierarchy Standard (FHS)
+    ├── Distributions (Ubuntu, Kali, CentOS)
+    ├── Package Managers (apt, yum, dnf)
+    └── Boot Process & Init Systems
+
+08. Linux Commands
+    ├── File Operations (ls, cp, mv, rm, find)
+    ├── Permissions (chmod, chown)
+    ├── Process Management (ps, top, kill)
+    ├── Text Processing (grep, awk, sed)
+    └── Networking (ifconfig, ping, curl, wget)
+
+09. Linux Administration
+    ├── User & Group Management
+    ├── Service Management (systemctl)
+    ├── Log Management (journalctl, /var/log)
+    ├── Disk & Storage Management
+    └── Cron Jobs
+
+10. Linux Server Administration
+    ├── SSH Configuration & Hardening
+    ├── Web Servers (Apache, Nginx)
+    ├── Firewall (iptables, ufw)
+    ├── Server Monitoring
+    └── Backup & Recovery
+
+11. Git
+    ├── Basic Commands (init, add, commit, push, pull)
+    ├── Branching & Merging
+    ├── Conflict Resolution
+    └── Git Workflow Strategies
+
+12. GitHub
+    ├── Repositories & Forking
+    ├── Pull Requests & Code Review
+    ├── Issues & Project Boards
+    ├── GitHub Actions (CI/CD)
+    └── Collaboration Workflow
+
+13. Python Programming
+    ├── Syntax & Data Types
+    ├── Control Flow & Functions
+    ├── OOP Concepts
+    ├── File Handling
+    ├── Modules & Libraries
+    └── Security Scripting (automation, parsing)
+
+14. Data Structures & Algorithms (DSA)
+    ├── Arrays, Strings, Linked Lists
+    ├── Stacks & Queues
+    ├── Trees & Graphs
+    ├── Sorting & Searching Algorithms
+    └── Time/Space Complexity (Big O)
+
+15. Shell Scripting
+    ├── Bash Syntax
+    ├── Variables & Loops
+    ├── Conditionals
+    ├── Functions
+    └── Automation Scripts
+
+16. Regular Expressions (Regex)
+    ├── Basic Patterns & Metacharacters
+    ├── Quantifiers & Anchors
+    ├── Groups & Lookarounds
+    └── Use Cases (log parsing, validation)
+
+17. Networking Fundamentals
+    ├── OSI Model (7 layers)
+    ├── TCP/IP Model
+    ├── IP Addressing (IPv4/IPv6)
+    └── Ports & Sockets
+
+18. Network Protocols (TCP/IP, UDP, ICMP)
+    ├── TCP — Connection-oriented, handshake
+    ├── UDP — Connectionless, fast transfer
+    ├── ICMP — Ping, traceroute, error messages
+    └── Common Protocols (HTTP, FTP, SSH, DNS)
+
+19. Subnetting
+    ├── CIDR Notation
+    ├── Subnet Masks
+    ├── VLSM (Variable Length Subnet Masking)
+    └── Subnet Calculations
+
+20. Routing & Switching
+    ├── Static Routing
+    ├── Dynamic Routing (OSPF, EIGRP, BGP basics)
+    ├── VLANs
+    └── Switching Concepts (STP, Trunking)
+
+21. CCNA
+    ├── Router & Switch Configuration
+    ├── VLAN & Inter-VLAN Routing
+    ├── Routing Protocols
+    ├── WAN Technologies
+    └── Network Troubleshooting
+
+22. Cisco Packet Tracer Labs
+    ├── Network Topology Design
+    ├── Device Configuration Labs
+    ├── Routing/Switching Simulations
+    └── Troubleshooting Scenarios
+
+23. Network Automation
+    ├── Python for Networking (Netmiko, Paramiko)
+    ├── Ansible for Network Devices
+    ├── API-based Automation
+    └── Config Backup/Deployment Scripts
+
+24. Network Security
+    ├── Firewalls (types, rules)
+    ├── IDS/IPS
+    ├── ACLs (Access Control Lists)
+    └── Common Network Attacks (MITM, ARP spoofing)
+
+25. NOC (Network Operations Center)
+    ├── Network Monitoring Tools (Nagios, Zabbix)
+    ├── Uptime & Performance Monitoring
+    ├── Ticketing Systems
+    └── Escalation Procedures
+
+26. VPN & Firewall Concepts
+    ├── VPN Types (Site-to-Site, Remote Access)
+    ├── IPSec & SSL VPN
+    ├── Firewall Rules & Policies
+    └── NAT (Network Address Translation)
+
+27. Zero Trust Architecture
+    ├── "Never Trust, Always Verify" Principle
+    ├── Micro-segmentation
+    ├── Identity-based Access Control
+    └── Continuous Verification
+
+28. DBMS Fundamentals
+    ├── Relational Database Concepts
+    ├── ER Diagrams
+    ├── Normalization (1NF, 2NF, 3NF)
+    └── Keys (Primary, Foreign, Unique)
+
+29. SQL
+    ├── DDL (CREATE, ALTER, DROP)
+    ├── DML (INSERT, UPDATE, DELETE)
+    ├── DQL (SELECT, JOINS, Subqueries)
+    └── Aggregate Functions & Grouping
+
+30. Database Administration Basics
+    ├── Backup & Restore
+    ├── Indexing & Performance Tuning
+    ├── User Roles & Privileges
+    └── Replication Basics
+
+31. Database Security
+    ├── Access Control & Authentication
+    ├── Encryption (at rest, in transit)
+    ├── SQL Injection Prevention
+    └── Auditing & Logging
+
+32. SaaS (Cloud Service Models)
+    ├── IaaS vs PaaS vs SaaS
+    ├── Public vs Private vs Hybrid Cloud
+    └── Shared Responsibility Model
+
+33. AWS Cloud Fundamentals
+    ├── AWS Global Infrastructure (Regions, AZs)
+    ├── AWS Management Console
+    ├── AWS Free Tier Services
+    └── Billing & Cost Management
+
+34. AWS Core Services
+    ├── EC2 (Compute)
+    ├── S3 (Storage)
+    ├── RDS (Database)
+    ├── Lambda (Serverless)
+    └── VPC (Networking)
+
+35. Cloud Networking
+    ├── VPC Design (Subnets, Route Tables)
+    ├── Security Groups & NACLs
+    ├── Load Balancers (ALB, NLB)
+    └── VPN/Direct Connect
+
+36. IAM Fundamentals
+    ├── Users, Groups, Roles
+    ├── Policies (JSON structure)
+    ├── Permissions & Access Levels
+    └── Identity Federation
+
+37. IAM Security
+    ├── Least Privilege Principle
+    ├── MFA (Multi-Factor Authentication)
+    ├── Policy Auditing & Access Analyzer
+    └── Cross-Account Access
+
+38. Cloud Security
+    ├── Shared Responsibility Model
+    ├── Encryption (KMS, S3 encryption)
+    ├── Security Monitoring (CloudTrail, GuardDuty)
+    └── Cloud-specific Threats (misconfig, exposed buckets)
+
+39. Azure/GCP Basics (Multi-Cloud Awareness)
+    ├── Azure Core Services (VMs, Blob Storage, Entra ID)
+    ├── GCP Core Services (Compute Engine, Cloud Storage, IAM)
+    └── Cross-Cloud Comparison
+
+40. Container & Cloud-Native Security (CNAPP)
+    ├── Container Image Scanning
+    ├── Kubernetes Security Posture
+    ├── Runtime Protection
+    └── CSPM (Cloud Security Posture Management)
+
+41. DevOps Fundamentals
+    ├── CI/CD Concepts
+    ├── Automation Philosophy
+    ├── Version Control Integration
+    └── Monitoring & Feedback Loops
+
+42. SDLC Fundamentals
+    ├── SDLC Phases (Plan, Design, Develop, Test, Deploy)
+    ├── Agile vs Waterfall
+    └── Sprint Planning Basics
+
+43. Maven
+    ├── Project Object Model (POM.xml)
+    ├── Build Lifecycle
+    ├── Dependency Management
+    └── Plugins
+
+44. Jenkins
+    ├── Pipeline Creation (Declarative/Scripted)
+    ├── Jobs & Builds
+    ├── Plugins & Integrations
+    └── Automated Testing Integration
+
+45. Docker
+    ├── Images & Containers
+    ├── Dockerfile
+    ├── Docker Compose
+    └── Volumes & Networking
+
+46. Kubernetes
+    ├── Pods, Deployments, Services
+    ├── ConfigMaps & Secrets
+    ├── Namespaces
+    └── Helm Basics
+
+47. SonarQube
+    ├── Code Quality Analysis
+    ├── Security Vulnerability Detection
+    ├── Code Smells & Technical Debt
+    └── CI/CD Integration
+
+48. Ansible
+    ├── Inventory & Playbooks
+    ├── Modules & Roles
+    ├── Variables & Templates (Jinja2)
+    └── Idempotency Concept
+
+49. Terraform
+    ├── HCL Syntax
+    ├── Providers & Resources
+    ├── State Management
+    └── Modules
+
+50. IaC (Infrastructure as Code)
+    ├── Declarative vs Imperative Approach
+    ├── Version-Controlled Infrastructure
+    ├── Terraform + Ansible Integration
+    └── Drift Detection
+
+51. DevSecOps Fundamentals
+    ├── Shift-Left Security
+    ├── Security in CI/CD Pipeline
+    ├── SAST/DAST Tools
+    └── Container/Dependency Scanning
+
+52. SIEM Fundamentals
+    ├── Log Collection & Aggregation
+    ├── Correlation Rules
+    ├── Alerting Mechanisms
+    └── Dashboard & Visualization
+
+53. SOAR (Security Orchestration & Automation)
+    ├── Playbook Automation
+    ├── Incident Triage Automation
+    ├── Integration with SIEM/Tools
+    └── Case Management
+
+54. Cyber Security Fundamentals
+    ├── Core Security Principles
+    ├── Authentication vs Authorization
+    └── Security Domains Overview
+
+55. Security Concepts (CIA, Risk, Threats)
+    ├── Confidentiality, Integrity, Availability
+    ├── Threats vs Vulnerabilities vs Risks
+    └── Risk Assessment Basics
+
+56. Security Attacks
+    ├── Phishing & Social Engineering
+    ├── Man-in-the-Middle (MITM)
+    ├── DoS/DDoS
+    └── Malware Types
+
+57. Ethical Hacking Fundamentals
+    ├── Hacking Methodology (Recon → Exploit → Report)
+    ├── Legal & Ethical Boundaries
+    ├── Types of Hackers (White/Black/Grey Hat)
+    └── Lab Setup (VirtualBox, Kali Linux)
+
+58. OWASP Top 10
+    ├── Injection (SQLi, Command Injection)
+    ├── Broken Authentication
+    ├── XSS (Cross-Site Scripting)
+    ├── Security Misconfiguration
+    └── SSRF, IDOR, etc.
+
+59. OSINT
+    ├── Search Engine Techniques (Google Dorking)
+    ├── Social Media Reconnaissance
+    ├── WHOIS & DNS Recon
+    └── OSINT Tools (Maltego, theHarvester)
+
+60. Vulnerability Assessment
+    ├── Scanning Tools (Nessus, OpenVAS)
+    ├── CVE/CVSS Scoring
+    ├── False Positive Analysis
+    └── Report Generation
+
+61. Penetration Testing
+    ├── PTES Methodology
+    ├── Reconnaissance & Scanning
+    ├── Exploitation & Post-Exploitation
+    └── Reporting & Remediation
+
+62. Web Pentesting
+    ├── Burp Suite Usage
+    ├── Manual Testing Techniques
+    ├── Authentication/Session Attacks
+    └── API Security Testing
+
+63. Network Pentesting
+    ├── Nmap Scanning Techniques
+    ├── Service Enumeration
+    ├── Exploitation (Metasploit)
+    └── Privilege Escalation
+
+64. Cloud Pentesting
+    ├── AWS/Azure Misconfiguration Testing
+    ├── S3 Bucket Exploitation
+    ├── IAM Privilege Escalation
+    └── Cloud-specific Tools (Pacu, ScoutSuite)
+
+65. Application Pentesting
+    ├── Mobile App Testing (Android/iOS)
+    ├── Desktop App Testing
+    ├── API Testing
+    └── Reverse Engineering Apps
+
+66. Active Directory Pentesting
+    ├── Enumeration (BloodHound, PowerView)
+    ├── Kerberoasting & AS-REP Roasting
+    ├── Pass-the-Hash/Ticket Attacks
+    └── Privilege Escalation Paths
+
+67. Log Analysis
+    ├── Log Sources (System, Application, Security)
+    ├── Log Formats (Syslog, JSON, CEF)
+    ├── Pattern Recognition
+    └── Anomaly Detection
+
+68. Wazuh
+    ├── Agent Deployment
+    ├── Rule Configuration
+    ├── File Integrity Monitoring
+    └── Alert Dashboard
+
+69. Splunk
+    ├── SPL (Search Processing Language)
+    ├── Dashboards & Visualizations
+    ├── Data Ingestion (Forwarders)
+    └── Alerting & Reports
+
+70. Threat Detection
+    ├── Behavioral Analysis
+    ├── Signature vs Anomaly-based Detection
+    ├── Endpoint Detection (EDR)
+    └── Network Traffic Analysis
+
+71. Threat Intelligence (CTI)
+    ├── IOCs (Indicators of Compromise)
+    ├── Threat Feeds & Sources
+    ├── Attacker TTP Profiling
+    └── Intelligence Sharing (STIX/TAXII)
+
+72. MITRE ATT&CK Framework
+    ├── Tactics & Techniques Matrix
+    ├── Mapping Attacks to Framework
+    ├── Adversary Emulation
+    └── Detection Engineering
+
+73. SOC Analysis
+    ├── Alert Triage (Tier 1/2)
+    ├── SIEM Monitoring
+    ├── Escalation Procedures
+    └── Daily SOC Workflow
+
+74. Incident Response
+    ├── IR Lifecycle (Prepare, Detect, Contain, Eradicate, Recover)
+    ├── Playbook Development
+    ├── Communication Protocols
+    └── Post-Incident Review
+
+75. Security Operations (SecOps)
+    ├── Daily Operational Tasks
+    ├── Shift Handover Processes
+    ├── Tool Management
+    └── Metrics & Reporting
+
+76. Malware Analysis
+    ├── Static Analysis
+    ├── Dynamic Analysis (Sandboxing)
+    ├── Malware Behavior Categorization
+    └── Tools (PEStudio, Cuckoo Sandbox)
+
+77. Reverse Engineering
+    ├── Disassembly (IDA, Ghidra)
+    ├── Debugging (x64dbg, OllyDbg)
+    ├── Binary Analysis
+    └── Patch Diffing
+
+78. Digital Forensics (DFIR)
+    ├── Evidence Collection & Chain of Custody
+    ├── Disk Forensics
+    ├── Memory Forensics (Volatility)
+    └── Timeline Analysis
+
+79. Governance
+    ├── Security Policy Development
+    ├── Security Frameworks Overview
+    ├── Roles & Responsibilities
+    └── Enforcement & Awareness Programs
+
+80. Risk Management
+    ├── Risk Identification & Assessment
+    ├── Risk Treatment (Mitigate/Accept/Transfer)
+    ├── Risk Register
+    └── Frameworks (NIST RMF, ISO 31000)
+
+81. Cryptography Fundamentals
+    ├── Symmetric vs Asymmetric Encryption
+    ├── Hashing Algorithms
+    ├── PKI (Public Key Infrastructure)
+    └── Digital Signatures & Certificates
+
+82. Compliance (ISO 27001, NIST, PCI-DSS)
+    ├── ISO 27001 — ISMS Standards
+    ├── NIST Cybersecurity Framework
+    ├── PCI-DSS — Payment Card Security
+    └── Audit & Certification Process
+
+83. AI Fundamentals
+    ├── Types of AI (ML, DL, NLP)
+    ├── Training vs Inference
+    ├── Supervised/Unsupervised Learning
+    └── Basic Algorithms (Regression, Classification)
+
+84. LLM Fundamentals
+    ├── Transformer Architecture
+    ├── Tokens & Embeddings
+    ├── Training Process (Pretraining, Fine-tuning)
+    └── Context Windows
+
+85. Prompt Engineering
+    ├── Prompt Structure & Techniques
+    ├── Few-shot/Zero-shot Prompting
+    ├── Chain-of-Thought Prompting
+    └── Prompt Optimization
+
+86. AI Security Fundamentals
+    ├── AI-specific Risk Landscape
+    ├── Data Privacy in AI Systems
+    ├── Model Security Basics
+    └── AI Governance Concepts
+
+87. Adversarial AI
+    ├── Evasion Attacks
+    ├── Data Poisoning
+    ├── Model Inversion/Extraction
+    └── Adversarial Examples
+
+88. LLM Security
+    ├── Prompt Injection
+    ├── Jailbreaking Techniques
+    ├── Data Leakage & Memorization
+    └── Output Filtering/Guardrails
+
+89. AI Red Teaming
+    ├── AI System Vulnerability Testing
+    ├── Attack Simulation Frameworks
+    ├── Red Team Methodology for AI
+    └── Reporting AI Vulnerabilities
+
+90. AI Security Operations
+    ├── Monitoring AI Systems in Production
+    ├── AI Incident Response
+    ├── Model Drift Detection
+    └── AI Audit Logging
+
+91. Post-Quantum Cryptography (CRYSTALS-Kyber/Dilithium)
+    ├── Quantum Computing Threat to Crypto
+    ├── Lattice-based Cryptography
+    ├── CRYSTALS-Kyber (Key Encapsulation)
+    └── CRYSTALS-Dilithium (Digital Signatures)
+
+92. AI Agents & Agentic Security (MCP/Tool-use risks)
+    ├── Agentic AI Architecture
+    ├── Tool-use & Function Calling Risks
+    ├── MCP (Model Context Protocol) Security
+    └── Agent-to-Agent Communication Risks

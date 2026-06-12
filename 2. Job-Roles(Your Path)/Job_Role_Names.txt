@@ -1,0 +1,181 @@
+
+Your job Role Related Job Names given:
+
+🎯 COMPLETE RELATED JOB ROLES
+================================================================================
+
+🤖 AI SECURITY
+--------------------------------------------------------------------------------
+AI Security Intern
+Junior AI Security Analyst
+AI Security Analyst
+AI Security Engineer
+AI Security Architect
+AI Threat Analyst
+AI Risk Analyst
+AI Governance Analyst
+AI Security Consultant
+AI Red Team Engineer
+AI Blue Team Engineer
+AI SOC Analyst
+AI Incident Response Engineer
+AI Detection Engineer
+AI Security Researcher
+AI Security Operations Engineer
+Senior AI Security Engineer
+
+☁️ CLOUD SECURITY
+--------------------------------------------------------------------------------
+Cloud Security Intern
+Cloud Security Analyst
+Cloud Security Engineer
+Cloud Security Consultant
+Cloud Security Architect
+Cloud Security Operations Engineer
+Cloud Detection Engineer
+Cloud SOC Analyst
+Cloud Incident Responder
+Senior Cloud Security Engineer
+
+🔐 IAM SECURITY
+--------------------------------------------------------------------------------
+IAM Analyst
+IAM Engineer
+Identity Security Engineer
+PAM Engineer
+Identity Governance Engineer
+Access Management Engineer
+IAM Consultant
+IAM Architect
+CyberArk Engineer
+Okta Engineer
+
+🌐 NETWORK SECURITY
+--------------------------------------------------------------------------------
+Network Engineer
+Network Analyst
+Network Security Analyst
+Network Security Engineer
+Network Security Consultant
+Network Security Architect
+NOC Engineer
+Wireless Security Engineer
+
+🛡️ CYBER SECURITY
+--------------------------------------------------------------------------------
+Cyber Security Intern
+Cyber Security Analyst
+Cyber Security Engineer
+Cyber Security Consultant
+Cyber Security Architect
+Security Engineer
+Security Consultant
+Security Architect
+Information Security Analyst
+Information Security Engineer
+Information Security Manager
+
+🔍 SECURITY OPERATIONS (SOC)
+--------------------------------------------------------------------------------
+SOC Analyst L1
+SOC Analyst L2
+SOC Analyst L3
+SOC Engineer
+SOC Manager
+Threat Hunter
+Threat Intelligence Analyst
+Detection Engineer
+Incident Responder
+Digital Forensics Analyst
+DFIR Engineer
+
+🌐 APPLICATION SECURITY
+--------------------------------------------------------------------------------
+Application Security Analyst
+Application Security Engineer
+Secure Code Reviewer
+Product Security Engineer
+API Security Engineer
+Web Security Engineer
+AppSec Architect
+
+⚙️ DEVSECOPS
+--------------------------------------------------------------------------------
+DevSecOps Intern
+DevSecOps Engineer
+DevSecOps Consultant
+DevSecOps Architect
+Platform Security Engineer
+Cloud DevSecOps Engineer
+Kubernetes Security Engineer
+Container Security Engineer
+
+🗄️ DATABASE SECURITY
+--------------------------------------------------------------------------------
+Database Administrator
+Database Security Analyst
+Database Security Engineer
+Database Security Architect
+Data Protection Engineer
+
+💀 ETHICAL HACKING
+--------------------------------------------------------------------------------
+Ethical Hacker
+Penetration Tester
+Web Penetration Tester
+Network Penetration Tester
+Red Team Operator
+Red Team Engineer
+Vulnerability Assessment Analyst
+VAPT Engineer
+Bug Bounty Hunter
+
+🏢 GRC
+--------------------------------------------------------------------------------
+GRC Analyst
+Risk Analyst
+Security Compliance Analyst
+Compliance Engineer
+Information Security Auditor
+IT Auditor
+Third Party Risk Analyst
+Security Governance Analyst
+GRC Consultant
+GRC Manager
+
+👽 AI
+--------------------------------------------------------------------------------
+AI Engineer
+Machine Learning Engineer
+Generative AI Engineer
+LLM Engineer
+AI Platform Engineer
+MLOps Engineer
+AI Research Engineer
+
+🤖 PROMPT ENGINEERING
+--------------------------------------------------------------------------------
+Prompt Engineer
+AI Content Engineer
+LLM Application Engineer
+Conversational AI Engineer
+AI Automation Engineer
+
+🚀 HYBRID FUTURE ROLES (2026-2035)
+--------------------------------------------------------------------------------
+AI Security Engineer
+AI Cloud Security Engineer
+AI Network Security Engineer
+AI Cyber Security Engineer
+AI DevSecOps Engineer
+AI SOC Engineer
+AI Threat Hunter
+AI GRC Analyst
+AI IAM Engineer
+AI Application Security Engineer
+AI Red Team Engineer
+AI Security Architect
+AI Security Consultant
+AI Security Operations Engineer
+AI Infrastructure Security Engineer
+AI Governance Engineer

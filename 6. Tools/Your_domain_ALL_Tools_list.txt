@@ -1,0 +1,246 @@
+
+Tools all : 
+
+🐧 LINUX
+--------------------------------------------------------------------------------
+Ubuntu
+Kali Linux
+Parrot OS
+Rocky Linux
+AlmaLinux
+CentOS
+Debian
+WSL
+Bash
+SSH
+Tmux
+Vim
+Nano
+Cron
+
+🔀 GIT & VERSION CONTROL
+--------------------------------------------------------------------------------
+Git
+GitHub
+GitLab
+Bitbucket
+GitHub Actions
+GitLab CI/CD
+
+🐍 PYTHON
+--------------------------------------------------------------------------------
+Python
+Requests
+Scapy
+Boto3
+Paramiko
+Socket
+Asyncio
+Pandas
+NumPy
+Flask
+FastAPI
+Pytest
+
+🌐 NETWORKING
+--------------------------------------------------------------------------------
+Cisco Packet Tracer
+GNS3
+EVE-NG
+Wireshark
+Nmap
+Netcat
+Traceroute
+TCPDump
+PuTTY
+SolarWinds
+
+📡 CCNA
+--------------------------------------------------------------------------------
+VLAN
+STP
+OSPF
+EIGRP
+BGP
+NAT
+ACL
+DHCP
+DNS
+VPN
+
+☁️ CLOUD
+--------------------------------------------------------------------------------
+AWS
+Microsoft Azure
+Google Cloud Platform
+
+AWS SERVICES
+--------------------------------------------------------------------------------
+EC2
+S3
+VPC
+IAM
+CloudWatch
+CloudTrail
+GuardDuty
+Inspector
+Security Hub
+Lambda
+Route53
+RDS
+EKS
+ECS
+WAF
+Secrets Manager
+KMS
+
+🔐 IAM SECURITY
+--------------------------------------------------------------------------------
+AWS IAM
+AWS IAM Identity Center
+Microsoft Entra ID
+Okta
+Keycloak
+Ping Identity
+CyberArk
+HashiCorp Vault
+
+🛡️ CYBER SECURITY
+--------------------------------------------------------------------------------
+Nmap
+Nessus
+OpenVAS
+Splunk
+Wazuh
+QRadar
+ELK Stack
+Snort
+Suricata
+CrowdStrike
+Microsoft Defender
+Falcon
+Velociraptor
+Autopsy
+
+🔍 SECURITY OPERATIONS (SOC)
+--------------------------------------------------------------------------------
+Splunk
+QRadar
+Microsoft Sentinel
+Wazuh
+ELK Stack
+TheHive
+Shuffle
+MISP
+Cortex
+Sysmon
+
+🌐 APPLICATION SECURITY (APPSEC)
+--------------------------------------------------------------------------------
+Burp Suite
+OWASP ZAP
+Postman
+Snyk
+SonarQube
+Checkmarx
+Veracode
+Acunetix
+Nikto
+
+⚙️ DEVSECOPS
+--------------------------------------------------------------------------------
+Docker
+Kubernetes
+Jenkins
+GitHub Actions
+GitLab CI/CD
+Terraform
+Ansible
+Trivy
+Checkov
+Falco
+ArgoCD
+Helm
+
+🗄️ DATABASE SECURITY
+--------------------------------------------------------------------------------
+MySQL
+PostgreSQL
+MongoDB
+SQL Server
+Oracle Database
+Redis
+
+Database Auditing
+Database Encryption
+Database Access Control
+Database Backup Security
+
+💀 ETHICAL HACKING
+--------------------------------------------------------------------------------
+Kali Linux
+Metasploit
+Hydra
+Gobuster
+John The Ripper
+Hashcat
+SQLMap
+Aircrack-ng
+Bettercap
+Responder
+BloodHound
+CrackMapExec
+NetExec
+Impacket
+BeEF
+
+🏢 GRC
+--------------------------------------------------------------------------------
+ISO 27001
+NIST CSF
+NIST 800-53
+CIS Controls
+SOC 2
+PCI DSS
+HIPAA
+GDPR
+Risk Register
+Audit Management
+
+👽 AI / MACHINE LEARNING
+--------------------------------------------------------------------------------
+NumPy
+Pandas
+Scikit-Learn
+TensorFlow
+PyTorch
+Hugging Face
+LangChain
+LlamaIndex
+CrewAI
+AutoGen
+
+🤖 PROMPT ENGINEERING
+--------------------------------------------------------------------------------
+ChatGPT
+Claude
+Gemini
+Copilot
+Perplexity
+NotebookLM
+Promptfoo
+LangSmith
+
+🧠 AI SECURITY
+--------------------------------------------------------------------------------
+OWASP LLM Top 10
+Promptfoo
+Garak
+LangChain Security
+Llama Guard
+NVIDIA NeMo Guardrails
+Lakera
+Microsoft PyRIT
+AI Red Teaming Tools
+
+========================================================================

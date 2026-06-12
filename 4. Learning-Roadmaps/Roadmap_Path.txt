@@ -1,0 +1,93 @@
+
+01. Computer Basics
+02. Web Basics (HTTP, HTTPS, DNS, Browser)
+03. Windows Administration
+04. Windows CLI Commands
+05. Active Directory
+06. Windows Server
+07. Linux Fundamentals
+08. Linux Commands
+09. Linux Administration
+10. Linux Server Administration
+11. Git
+12. GitHub
+13. Python Programming
+14. Data Structures & Algorithms (DSA)
+15. Shell Scripting
+16. Regular Expressions (Regex)
+17. Networking Fundamentals
+18. Network Protocols (TCP/IP, UDP, ICMP)
+19. Subnetting
+20. Routing & Switching
+21. CCNA
+22. Cisco Packet Tracer Labs
+23. Network Automation
+24. Network Security
+25. NOC (Network Operations Center)
+26. VPN & Firewall Concepts
+27. Zero Trust Architecture
+28. DBMS Fundamentals
+29. SQL
+30. Database Administration Basics
+31. Database Security
+32. SaaS (Cloud Service Models)
+33. AWS Cloud Fundamentals
+34. AWS Core Services
+35. Cloud Networking
+36. IAM Fundamentals
+37. IAM Security
+38. Cloud Security
+39. Azure/GCP Basics (Multi-Cloud Awareness)
+40. Container & Cloud-Native Security (CNAPP)
+41. DevOps Fundamentals
+42. SDLC Fundamentals
+43. Maven
+44. Jenkins
+45. Docker
+46. Kubernetes
+47. SonarQube
+48. Ansible
+49. Terraform
+50. IaC (Infrastructure as Code)
+51. DevSecOps Fundamentals
+52. SIEM Fundamentals
+53. SOAR (Security Orchestration & Automation)
+54. Cyber Security Fundamentals
+55. Security Concepts (CIA, Risk, Threats)
+56. Security Attacks
+57. Ethical Hacking Fundamentals
+58. OWASP Top 10
+59. OSINT
+60. Vulnerability Assessment
+61. Penetration Testing
+62. Web Pentesting
+63. Network Pentesting
+64. Cloud Pentesting
+65. Application Pentesting
+66. Active Directory Pentesting
+67. Log Analysis
+68. Wazuh
+69. Splunk
+70. Threat Detection
+71. Threat Intelligence (CTI)
+72. MITRE ATT&CK Framework
+73. SOC Analysis
+74. Incident Response
+75. Security Operations (SecOps)
+76. Malware Analysis
+77. Reverse Engineering
+78. Digital Forensics (DFIR)
+79. Governance
+80. Risk Management
+81. Cryptography Fundamentals
+82. Compliance (ISO 27001, NIST, PCI-DSS)
+83. AI Fundamentals
+84. LLM Fundamentals
+85. Prompt Engineering
+86. AI Security Fundamentals
+87. Adversarial AI
+88. LLM Security
+89. AI Red Teaming
+90. AI Security Operations
+91. Post-Quantum Cryptography (CRYSTALS-Kyber/Dilithium)
+92. AI Agents & Agentic Security (MCP/Tool-use risks)
