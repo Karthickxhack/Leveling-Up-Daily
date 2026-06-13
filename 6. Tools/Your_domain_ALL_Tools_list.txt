@@ -244,3 +244,144 @@ Microsoft PyRIT
 AI Red Teaming Tools
 
 ========================================================================
+
+🔀 AUTOMATION & WORKFLOW
+--------------------------------------------------------------------------------
+n8n
+Zapier
+Make (Integromat)
+Apache Airflow
+Prefect
+
+📦 VECTOR DATABASES
+--------------------------------------------------------------------------------
+Pinecone
+Weaviate
+ChromaDB
+Qdrant
+Milvus
+FAISS
+PGVector
+
+🔎 RAG & LLM FRAMEWORKS
+--------------------------------------------------------------------------------
+LangChain
+LangGraph
+LlamaIndex
+Haystack
+DSPy
+Semantic Kernel
+
+⚡ MCP (Model Context Protocol)
+--------------------------------------------------------------------------------
+MCP Server
+MCP Client
+Claude MCP
+Cursor MCP
+Continue.dev
+
+🤖 AI AGENTS
+--------------------------------------------------------------------------------
+CrewAI
+AutoGen
+LangGraph
+AgentGPT
+SuperAGI
+Flowise
+Dify
+
+🧠 LLM / SLM / MLM MODELS
+--------------------------------------------------------------------------------
+GPT-4o
+Claude 3.5
+Gemini 1.5
+LLaMA 3
+Mistral
+Phi-3
+Gemma
+Falcon
+BERT
+RoBERTa
+Whisper
+Ollama
+LM Studio
+
+🔗 APIs & JSON TOOLS
+--------------------------------------------------------------------------------
+Postman
+Insomnia
+cURL
+Swagger (OpenAPI)
+RapidAPI
+HTTPie
+JSON Formatter
+REST Client (VS Code)
+
+🖥️ TERMINAL & PRODUCTIVITY
+--------------------------------------------------------------------------------
+VS Code
+Cursor AI
+Jupyter Notebook
+Google Colab
+Obsidian
+Notion
+Draw.io
+Excalidraw
+
+🔐 POST-QUANTUM CRYPTOGRAPHY
+--------------------------------------------------------------------------------
+CRYSTALS-Kyber
+CRYSTALS-Dilithium
+SPHINCS+
+FALCON
+OpenQuantumSafe (liboqs)
+NIST PQC Libraries
+
+📊 MONITORING & OBSERVABILITY
+--------------------------------------------------------------------------------
+Grafana
+Prometheus
+Datadog
+New Relic
+Zabbix
+Nagios
+Loki
+
+🌐 OSINT TOOLS
+--------------------------------------------------------------------------------
+Maltego
+theHarvester
+Shodan
+Censys
+Recon-ng
+SpiderFoot
+OSINT Framework
+Amass
+Subfinder
+
+🧪 MALWARE ANALYSIS & FORENSICS
+--------------------------------------------------------------------------------
+PEStudio
+Cuckoo Sandbox
+Any.run
+VirusTotal
+IDA Pro
+Ghidra
+x64dbg
+OllyDbg
+Volatility
+Autopsy
+FTK Imager
+Velociraptor
+
+🚀 PROJECTS & PORTFOLIO
+--------------------------------------------------------------------------------
+GitHub Pages
+GitBook
+Hashnode
+Medium
+TryHackMe
+HackTheBox
+PentesterLab
+Bug Bounty (HackerOne, Bugcrowd)
+CTF Platforms (PicoCTF, CTFtime)
