@@ -1,4 +1,3 @@
-
 01. Computer Basics
 02. Web Basics (HTTP, HTTPS, DNS, Browser)
 03. Windows Administration
@@ -91,3 +90,11 @@
 90. AI Security Operations
 91. Post-Quantum Cryptography (CRYSTALS-Kyber/Dilithium)
 92. AI Agents & Agentic Security (MCP/Tool-use risks)
+93. APIs & JSON
+94. n8n Automation
+95. LangChain && LangGraph
+96. Vector Databases
+97. RAG (Retrieval Augmented Generation) && MCP (Model Context Protocol)
+98. AI Agents Development 
+99. LLM & SLM & MLM 
+100.Projects & Portfolio 
