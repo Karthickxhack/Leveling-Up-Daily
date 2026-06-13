@@ -578,3 +578,144 @@
     ├── Tool-use & Function Calling Risks
     ├── MCP (Model Context Protocol) Security
     └── Agent-to-Agent Communication Risks
+ 93. APIs & JSON
+    ├── API Basics
+    │   ├── What is an API
+    │   ├── REST vs GraphQL vs SOAP
+    │   └── API Authentication (API Keys, OAuth, JWT)
+    ├── JSON
+    │   ├── JSON Structure & Syntax
+    │   ├── Parsing JSON (Python)
+    │   └── JSON vs XML
+    └── API Testing
+        ├── Postman Tool
+        ├── cURL Commands
+        └── API Security Testing Basics
+
+94. n8n Automation
+    ├── n8n Basics
+    │   ├── What is n8n
+    │   ├── Self-hosted vs Cloud
+    │   └── Workflow Canvas Overview
+    ├── Nodes & Triggers
+    │   ├── HTTP Request Node
+    │   ├── Webhook Triggers
+    │   └── Schedule Triggers
+    └── Automation Use Cases
+        ├── API Integration Workflows
+        ├── Security Alert Automation
+        └── AI Pipeline Automation
+
+95. LangChain
+    ├── LangChain Basics
+    │   ├── What is LangChain
+    │   ├── Chains & Prompts
+    │   └── LLM Integration (OpenAI, Ollama)
+    ├── Components
+    │   ├── Document Loaders
+    │   ├── Text Splitters
+    │   └── Output Parsers
+    └── Use Cases
+        ├── Chatbots
+        ├── RAG Pipelines
+        └── Tool-Calling Agents
+
+96. LangGraph
+    ├── LangGraph Basics
+    │   ├── What is LangGraph
+    │   ├── Graph vs Chain
+    │   └── Nodes & Edges
+    ├── State Management
+    │   ├── State Schema
+    │   ├── Conditional Edges
+    │   └── Checkpointing
+    └── Use Cases
+        ├── Multi-Agent Workflows
+        ├── Cyclic Agent Loops
+        └── Human-in-the-Loop Systems
+
+97. Vector Databases
+    ├── Fundamentals
+    │   ├── What is a Vector
+    │   ├── Embeddings Concept
+    │   └── Similarity Search (Cosine, Euclidean)
+    ├── Tools & Platforms
+    │   ├── Pinecone
+    │   ├── Weaviate
+    │   └── ChromaDB
+    └── Use Cases
+        ├── Semantic Search
+        ├── RAG Knowledge Base
+        └── AI Memory Storage
+
+98. RAG (Retrieval Augmented Generation)
+    ├── RAG Basics
+    │   ├── What is RAG
+    │   ├── RAG vs Fine-tuning
+    │   └── RAG Architecture Overview
+    ├── RAG Pipeline
+    │   ├── Document Ingestion
+    │   ├── Chunking Strategies
+    │   ├── Embedding & Storing
+    │   └── Retrieval & Generation
+    └── Advanced RAG
+        ├── Hybrid Search
+        ├── Re-ranking
+        └── RAG Evaluation
+
+99. MCP (Model Context Protocol)
+    ├── MCP Basics
+    │   ├── What is MCP
+    │   ├── MCP vs APIs
+    │   └── MCP Architecture
+    ├── MCP Components
+    │   ├── MCP Servers
+    │   ├── MCP Clients
+    │   └── Tools & Resources
+    └── MCP Security
+        ├── Tool-use Risks
+        ├── Prompt Injection via MCP
+        └── Access Control in MCP
+
+100. AI Agents Development
+    ├── Agent Basics
+    │   ├── What is an AI Agent
+    │   ├── ReAct Framework
+    │   └── Agent vs Chatbot
+    ├── Building Agents
+    │   ├── Tool Calling & Function Use
+    │   ├── Memory (Short-term & Long-term)
+    │   └── Planning & Reasoning
+    └── Multi-Agent Systems
+        ├── Agent Orchestration
+        ├── Agent Communication
+        └── CrewAI / AutoGen Frameworks
+
+101. LLM, SLM & MLM
+    ├── LLM (Large Language Models)
+    │   ├── GPT, Claude, Gemini, LLaMA
+    │   ├── Pretraining & RLHF
+    │   └── Inference Optimization
+    ├── SLM (Small Language Models)
+    │   ├── What is SLM
+    │   ├── Phi, Mistral, Gemma
+    │   └── Edge Deployment Use Cases
+    └── MLM (Masked Language Models)
+        ├── What is MLM
+        ├── BERT & RoBERTa
+        └── Use Cases (Classification, NER)
+
+102. Projects & Portfolio
+    ├── Project Ideas
+    │   ├── SOC Automation with SOAR
+    │   ├── AI Security Scanner
+    │   ├── RAG-based Threat Intelligence Bot
+    │   └── LangGraph Multi-Agent Security System
+    ├── Portfolio Building
+    │   ├── GitHub Portfolio Setup
+    │   ├── Write-ups & Documentation
+    │   └── Blog / LinkedIn Posts
+    └── Career Prep
+        ├── Resume Building
+        ├── CTF Participation
+        └── Bug Bounty Programs
